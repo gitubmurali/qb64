@@ -1,0 +1,17 @@
+Cls
+Print "Welcome player"
+Input "Enter your name"; Name$
+Input "Enter your first number"; a
+Input " Enter your second number"; b
+p = a + b
+q = a - b
+r = a * b
+s = a / b
+Print "Addition"; p
+Print "Subtraction"; q
+Print " Multiplication "; r
+Print " Division "; s
+Input " Enter your Number"; a
+Input " Enter your second number"; b
+Print " Thank You "
+End
